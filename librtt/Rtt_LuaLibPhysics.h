@@ -38,7 +38,7 @@ class LuaLibPhysics
 	public:
 		typedef enum _PhysicsUnitType
 		{
-			kUnknownUnitType = 0,
+			kUnknownUnitType = 1,
 			kLengthUnitType,
 			kVelocityUnitType,
 			kAngularVelocityUnitType,
