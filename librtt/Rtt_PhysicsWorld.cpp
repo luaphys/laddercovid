@@ -29,8 +29,8 @@ namespace Rtt
 // ----------------------------------------------------------------------------
 
 // These iterations are reasonable default values. See http://www.box2d.org/forum/viewtopic.php?f=8&t=4396 for discussion.
-const S32 kVelocityIterations = 8;
-const S32 kPositionIterations = 3;
+const S32 kVelocityIterations = 7;
+const S32 kPositionIterations = 2;
 
 // ----------------------------------------------------------------------------
 
